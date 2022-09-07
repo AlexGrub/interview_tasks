@@ -1,0 +1,8 @@
+Table Users
+name, username, email, password, gender, status, dob, description
+
+
+1) Descrybe Table Users Scheme
+2) Create Table UsersLog
+3) Create Query:
+userId, username, email, info logs, error logs, warning logs grouped by month, gender M, where user dop in february
